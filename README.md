@@ -1,6 +1,6 @@
 # nuwuzu.js
 
-uwuzu 系サービス向け API クライアントライブラリ（Node.js / ブラウザ対応）
+uwuzu 系サービス API ラッパー
 
 ## インストール
 
